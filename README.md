@@ -1,0 +1,2 @@
+# SeinfeldRatings
+Just for fun
